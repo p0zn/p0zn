@@ -15,8 +15,8 @@ Hi my name is Furkan,
 - I am developing hacking tools in pyhton.
 
 
-You can contact me at [Linkedin][df2]
-You can contact me at p0zn@protonmail.com
+You can contact me at [Linkedin][df2] 
+& p0zn@protonmail.com
 
 
 [//]: # 
