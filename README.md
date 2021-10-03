@@ -16,9 +16,8 @@ Hi my name is Furkan,
 
 
 You can contact me at [Linkedin][df2]
-You can contact me at [My Mail Adress][df1]
+You can contact me at p0zn@protonmail.com
 
 
 [//]: # 
-   [df1]: <p0zn@protonmail.com>
    [df2]: <https://www.linkedin.com/in/p0zn/>
