@@ -2,7 +2,7 @@
 
 [![Visit My Linkedin Profile](https://www.linkpicture.com/q/tubnail.jpg)](https://www.linkedin.com/in/p0zn/)
 
-Hi my name is p0zn,
+Hi my name is Furkan,
 
 
 - Developing hacking tools with pyhton
