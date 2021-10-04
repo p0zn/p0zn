@@ -12,7 +12,7 @@ Hi my name is Furkan,
 
 - I am a computer science engineer.
 - I am a Cyber Security Analyst.
-- I am developing hacking tools in pyhton.
+- I am developing hacking tools in python.
 
 
 You can contact me at [Linkedin][df2] 
