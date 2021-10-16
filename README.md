@@ -11,7 +11,7 @@ Hi my name is Furkan,
 ## About Me
 
 - I am a computer science engineer.
-- I am a Cyber Security Analyst.
+- I am a cyber security analyst.
 - I am developing hacking tools in python.
 
 
