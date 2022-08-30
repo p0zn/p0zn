@@ -9,9 +9,9 @@ Hi my name is Furkan,
 
 ## About Me
 
-- I am developing websites with Django and Flask
-- I am a computer science engineer.
-- I am developing hacking tools in python.
+- Backend Dev / Django - Flask
+- Computer Science Engineer.
+- Hacking Tools Developer with Python.
 
 
 You can contact me at [Linkedin][df2] 
