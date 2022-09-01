@@ -20,3 +20,6 @@ You can contact me at [Linkedin][df2]
 
 [//]: # 
    [df2]: <https://www.linkedin.com/in/p0zn/>
+
+
+![p0zn's GitHub stats](https://github-readme-stats.vercel.app/api?username=p0zn&show_icons=true&theme=radical)
