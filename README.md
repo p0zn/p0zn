@@ -24,4 +24,5 @@ You can contact me at [Linkedin][df2]
 
 ![p0zn's GitHub stats](https://github-readme-stats.vercel.app/api?username=p0zn&show_icons=true&theme=radical)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=p0zn)]
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=p0zn)
+![](https://komarev.com/ghpvc/?username=p0zn)
