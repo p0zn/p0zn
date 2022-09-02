@@ -27,3 +27,4 @@ You can contact me at [Linkedin][df2]
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=p0zn&theme=dark)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=p0zn&layout=compact"/>
