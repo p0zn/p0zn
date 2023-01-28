@@ -4,8 +4,7 @@
 
 Hi my name is Furkan,
 
-- Python Django-Flask web back-end developer 
-- Developing hacking tools with pyhton
+- Python Django-Flask Web Backend Developer 
 
 ## About Me
 
