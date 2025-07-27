@@ -22,8 +22,4 @@ You can contact me at [Linkedin][df2]
 [//]: # 
    [df2]: <https://www.linkedin.com/in/p0zn/>
 
-![p0zn's GitHub stats](https://github-readme-stats.vercel.app/api?username=p0zn&show_icons=true&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=p0zn&theme=dark)
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=p0zn&layout=compact"/>
