@@ -1,6 +1,6 @@
 # About p0zn:
 
-[![Visit My Linkedin Profile](https://www.linkpicture.com/q/tubnail-p0zn1.jpg)](https://www.linkedin.com/in/p0zn/)
+[![Visit My Linkedin Profile](https://i.imgur.com/RM25xZR.png)](https://www.linkedin.com/in/p0zn/)
 
 All about me,
 
