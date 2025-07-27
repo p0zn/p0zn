@@ -2,16 +2,9 @@
 
 [![Visit My Linkedin Profile](https://www.linkpicture.com/q/tubnail-p0zn1.jpg)](https://www.linkedin.com/in/p0zn/)
 
-Hi my name is Furkan,
+All about me,
 
-- Python Django-Flask Web Backend Developer 
-
-## About Me
-
-- Backend Dev / Django - Flask
-- Computer Science Engineer.
-- Hacking Tools Developer with Python.
-
+- Backend & DevOps Engineer
 
 You can contact me at [Linkedin][df2] 
 & p0zn@protonmail.com
